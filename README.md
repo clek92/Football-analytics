@@ -8,7 +8,8 @@ The model classifies the matches in the same way <br>
 If there are more than 2.5 goals scored in a match then the target variable is set to 1 otherwise (meaning less than 2.5 goals) is set to 0 <br>
 For the time being the repository will remain as is. <br>
 Next steps: 
-1) Gather more data reaching 10.000 football matches 
-2) Conduct EDA for the new dataset
-3) Construct new features for teams (currently only 13 available)
-4) Update the model and improve its architecture
+1) Reform the current file (it is one of my first projects) with scaleable code in order to be easily used
+2) Gather more data reaching 10.000 football matches 
+3) Conduct EDA for the new dataset
+4) Construct new features for teams (currently only 13 available)
+5) Update the model and improve its architecture
